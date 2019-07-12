@@ -1,4 +1,4 @@
-# Lesson 3.2: Use Functions
+# Lesson 3.2:
 # Mini-Project: Take a Break
 
 # Write a program that prompts the user to take a break
