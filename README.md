@@ -18,9 +18,12 @@ Once a level is selected, game displays a fill-in-the-blank and a prompt to fill
 When player guesses correctly, new prompt shows with correct answer in the previous blank and a new prompt for the next blank
 When player guesses incorrectly, they are prompted to try again
 
-## rename.py
+## secret message
 Mini-Project: Secret Message
 Your friend has hidden your keys! To find out where they are,
 you have to remove all numbers from the files in a folder
 called prank. But this will be so tedious to do!
 
+## a_draw_turtle  
+Mini-Project: Draw Turtles
+turtle is a library we can use to make simple computer graphics. Kunal wants you to try drawing a circles using squares. You can also use this space to create other kinds of shapes.
