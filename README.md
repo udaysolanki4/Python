@@ -17,3 +17,10 @@ Immediately after running the program, user is prompted to select a difficulty l
 Once a level is selected, game displays a fill-in-the-blank and a prompt to fill in the first blank.
 When player guesses correctly, new prompt shows with correct answer in the previous blank and a new prompt for the next blank
 When player guesses incorrectly, they are prompted to try again
+
+## rename.py
+Mini-Project: Secret Message
+Your friend has hidden your keys! To find out where they are,
+you have to remove all numbers from the files in a folder
+called prank. But this will be so tedious to do!
+
